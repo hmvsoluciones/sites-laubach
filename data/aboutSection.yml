@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Us
+
+  We're an all-volunteer organization established in 1961 offering free ESL (English as a Second Language) adult classes every week at various locations throughout San Diego County, California. 
+  Students and tutors meet in small groups or on a one-to-one basis.
+content: >
+  ### I design and build ultimate things.
+
+  Our primary mission is to promote literacy and English as a Second Language in San Diego County by:
+  .
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg
+
