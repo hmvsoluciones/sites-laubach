@@ -1,0 +1,71 @@
+---
+enable: true
+topTitle: Locations
+title: >
+  ## English classes
+
+map: >
+  ### [See the map](https://www.google.com/maps/d/viewer?mid=1qeBKGY_WNKe6saumXSRvDm25VVjVtECI&ll=32.99732460108765%2C-116.8450481&z=9)
+
+locations:
+  - name: Alpine
+    comment: 
+              "AL1. Alpine County Library, 1752 Alpine Blvd. Mary Harris:  prefers text to 619-490-9386; otherwise email to ranchogirlalpine@gmail.com; 1-on-1 and small group tutoring at various times"
+    time: 
+    star: 5
+  - name: Bonita
+    comment: "BON1. Bonita-Sunnyside Branch Library, 4375 Bonita Road"
+    time: Thursdays 10:00 am-Noon
+    star: 5
+  - name: Borrego Springs
+    comment: 
+              BOR1. Borrego Springs Literacy Center
+
+              Elaine McVey (elainemcvey1@gmail.com); Tutoring at various locations and times
+    time: 
+    star: 5
+  - name: Carlsbad
+    comment: 
+              CAR1. Carlsbad Literacy Center, Pilgrim United Church of Christ, 2020 Chestnut Avenue
+
+              Joan Grover (joangrover7121@gmail.com)
+    time: Tuesdays 7:00-9:00 pm and Thursdays 9:00-11:00 am
+    star: 5
+  - name: Chula Vista
+    comment: 
+              CV1. Chula Vista Literacy Center, Community Congregational Church, 276 “F” Street
+
+              Erika Dennis (ehdennis4@cox.net), Sue MacDonald (runsusie@sbcglobal.net)
+    time: Mondays 7:00-9:00 pm
+    star: 5
+  - name: El Cajon
+    comment: 
+              EC1. El Cajon Library, 201 E Douglas Avenue
+
+              EC2. EMASS - Union of Pan Asian Communities, Elder Multicultural Access & Support Services, 343 East Main Street
+
+              Salwa Yalda (syalda@upacsd.com)
+    time: Wednesdays and Fridays 10:00 am-12:00 noon
+    star: 5
+  - name: Encinitas 1
+    comment: 
+              EN1. San Dieguito Literacy Center
+
+              San Dieguito Methodist Church
+
+              170 Calle Magdalena
+
+              Laurie Martin (L.A.Martin@roadrunner.com)              
+
+              1-on-1 and small group classes for all levels
+    time: Mondays 7:00-9:00 pm and Tuesdays 9:00-11:00 am
+    star: 5
+  - name: Encinitas 2
+    comment:
+            EN2. Encinitas Literacy Center, Encinitas Library, 540 Cornish Drive
+
+            Jennifer Quilkey (jquilkey@me.com), Susan McClain (swmcclain@gmail.com)
+            M/onWed/Fri 10:30-12 (Beginning)
+
+    time: Tue/Thur/Fri 9:30-11:30 (Low-Intermediate); Tuesdays 4-6 (Low-Intermediate); Thur/Fri 9:30-11:30 (Beginning); Thursdays 5-6 (Intermediate); Thursdays 6-730 (English Cafe “News for You" offered through SDCL)
+    star: 5

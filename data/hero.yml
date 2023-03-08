@@ -1,13 +1,13 @@
 ---
 enable: true
-topTitle: Laubachsandiego
+topTitle: Laubach San Diego
 content: >
-  # I am here for your personal business
-
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  # 
+  
+  We're an all-volunteer organization established in 1961 offering free ESL (English as a Second Language) adult classes every week at various locations throughout San Diego County, California. Students and tutors meet in small groups or on a one-to-one basis.
+  
+buttonName: Contact us
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
+image: images/hero/hero-img.webp
+videoThumb: images/hero/popup-thumb.webp
 videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
